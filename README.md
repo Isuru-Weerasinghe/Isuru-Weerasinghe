@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Weerasinghe</h1>
-<h3 align="center">A passionate frontend web developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack web developer from Sri Lanka</h3>
 
 <table>
   <tr>
